@@ -1,2 +1,2 @@
 # say marhaba
-print("marhaban")
+print("marhaban ;)")
